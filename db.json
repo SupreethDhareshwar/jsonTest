@@ -1,0 +1,58 @@
+[
+  {
+    "value": "662c2153-1c93-42ca-a049-92c8bf407f06",
+    "label": "Account Opening"
+  },
+  {
+    "value": "688b934e-c560-42d5-b812-04f4d0748d7b",
+    "label": "Cheque Receipt Process"
+  },
+  {
+    "value": "2d8fbbd4-00db-4ead-a963-3e24ff302689",
+    "label": "Payments"
+  },
+  {
+    "value": "8482a1a2-117f-4f27-b8a9-4b91aef67e5d",
+    "label": "Change of Legal Address"
+  },
+  {
+    "value": "975a3d56-b20b-4c6c-b28b-4e4a09b2a10f",
+    "label": "Financial Instrument Switching"
+  },
+  {
+    "value": "acc03149-36dd-45a9-8398-720aed2f1f76",
+    "label": "Change of Domiciliation Account"
+  },
+  {
+    "value": "06171cda-77a5-4bad-9d80-72a5c4be1722",
+    "label": "Partial Surrender"
+  },
+  {
+    "value": "b2f720fe-17f8-4429-ae33-9aaaa3d22b7c",
+    "label": "Total Surrender"
+  },
+  {
+    "value": "18072e22-deb0-4710-8caf-9c06d9ff05d0",
+    "label": "Exceptional (Irregular) Premium or Booster"
+  },
+  {
+    "value": "22daa229-537d-4e6d-a144-9d8372b77cad",
+    "label": "CIF Correction - Upon Customer's Request"
+  },
+  {
+    "value": "7f7e859e-7dd7-43e1-9b45-b8ad85357a10",
+    "label": "Change Of Beneficiary"
+  },
+  {
+    "value": "8e3d6193-0826-4b33-84d9-cf1096222e70",
+    "label": "CIF Correction - Bank's Own Action"
+  },
+  {
+    "value": "ee62e727-6aea-4721-8d3e-d4c616d0252f",
+    "label": "Technical Amendment"
+  },
+  {
+    "value": "c3648e8c-369c-473a-a62a-d6a9209030e6",
+    "label": "Insure"
+  }
+]
